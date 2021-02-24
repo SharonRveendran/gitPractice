@@ -8,7 +8,7 @@ import model.Employee;
  * created 23-02-2021
  */
 public class Main {
-    HashMap<Integer,Employee> employees = new HashMap<>();
+    HashMap <Integer,Employee> employees = new HashMap<>();
     static Scanner scanner = new Scanner(System.in);
     public static void main(String[] args) { 	
 	Main main = new Main();
